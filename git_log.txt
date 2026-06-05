@@ -1,0 +1,1370 @@
+Script started on 2026-06-04 10:23:46+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ cd [K[K[Kgit[K[K[Kgit config --g[Kglobl [K[Kal user.name ""n"i"[1P"[1P"N"i"t"i"n"
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ git coni[Kfig --go[Kloab[K[Kv[Kbal s[Kuser.oass[K[K[K[Kpass [K[K[K[K[Kemail ""n"i"t"i"n"m"s"c"s"s"@"g"m"a"i"l" [A]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C."c"o"m"
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ get [K[K[Kit [K[K[K[Kgit co[K[K[K[K[K[Kgit init
+[?2004l[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/.git/
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ git clone [7m"D:\CIT\SEMESTERS\7th Semester Internship"[27m[1P"D:\CIT\SEMESTERS\7th Semester Internship[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mhttps://github.com/NITIN-0311/Real-Time-Obstacle-Anal[27m[7my[27m[7msis-and-Navigation-Model.git[27m[A]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [C[C[C[C[C[C[C[C[C[Chttps://github.com/NITIN-0311/Real-Time-Obstacle-Analysis-and-Navigation-Model.git
+[?2004lCloning into 'Real-Time-Obstacle-Analysis-and-Navigation-Model'...
+remote: Enumerating objects: 17, done.[K
+remote: Counting objects:   5% (1/17)[Kremote: Counting objects:  11% (2/17)[Kremote: Counting objects:  17% (3/17)[Kremote: Counting objects:  23% (4/17)[Kremote: Counting objects:  29% (5/17)[Kremote: Counting objects:  35% (6/17)[Kremote: Counting objects:  41% (7/17)[Kremote: Counting objects:  47% (8/17)[Kremote: Counting objects:  52% (9/17)[Kremote: Counting objects:  58% (10/17)[Kremote: Counting objects:  64% (11/17)[Kremote: Counting objects:  70% (12/17)[Kremote: Counting objects:  76% (13/17)[Kremote: Counting objects:  82% (14/17)[Kremote: Counting objects:  88% (15/17)[Kremote: Counting objects:  94% (16/17)[Kremote: Counting objects: 100% (17/17)[Kremote: Counting objects: 100% (17/17), done.[K
+remote: Compressing objects:   6% (1/15)[Kremote: Compressing objects:  13% (2/15)[Kremote: Compressing objects:  20% (3/15)[Kremote: Compressing objects:  26% (4/15)[Kremote: Compressing objects:  33% (5/15)[Kremote: Compressing objects:  40% (6/15)[Kremote: Compressing objects:  46% (7/15)[Kremote: Compressing objects:  53% (8/15)[Kremote: Compressing objects:  60% (9/15)[Kremote: Compressing objects:  66% (10/15)[Kremote: Compressing objects:  73% (11/15)[Kremote: Compressing objects:  80% (12/15)[Kremote: Compressing objects:  86% (13/15)[Kremote: Compressing objects:  93% (14/15)[Kremote: Compressing objects: 100% (15/15)[Kremote: Compressing objects: 100% (15/15), done.[K
+Receiving objects:   5% (1/17)Receiving objects:  11% (2/17)Receiving objects:  17% (3/17)Receiving objects:  23% (4/17)Receiving objects:  29% (5/17)Receiving objects:  35% (6/17)Receiving objects:  41% (7/17)remote: Total 17 (delta 0), reused 17 (delta 0), pack-reused 0 (from 0)[K
+Receiving objects:  47% (8/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  52% (9/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  58% (10/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  64% (11/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  70% (12/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  76% (13/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  82% (14/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  88% (15/17), 4.74 MiB | 9.47 MiB/sReceiving objects:  94% (16/17), 4.74 MiB | 9.47 MiB/sReceiving objects: 100% (17/17), 4.74 MiB | 9.47 MiB/sReceiving objects: 100% (17/17), 5.30 MiB | 9.40 MiB/s, done.
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[34;42mReal-Time-Obstacle-Analysis-and-Navigation-Model[0m  [01;32mgit_log.txt[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ cd [7mReal-Time-Obstacle-Analysis-and-Navigation-Model[27mReal-Time-Obstacle-Analysis-and-Navigation-Model
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ ls
+[?2004l[0m[34;42m__pycache__[0m            [01;32mefficientdet_lite2_448_ptq.tflite[0m  [01;32mlocation_utils.py[0m  [01;32mserver.py[0m              [01;32mtts_system.py[0m
+[01;32mapp.py[0m                 [01;32mfind_object.py[0m                     [01;32mmain.py[0m            [01;32mtempCodeRunnerFile.py[0m
+[01;32mdetected_objects.json[0m  [01;32mlabels.txt[0m                         [01;32mmap_server.py[0m      [34;42mtemplates[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ pwh[K[K[Kwhoami
+[?2004lnitin
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ ls
+[?2004l[0m[34;42m__pycache__[0m  [01;32mdetected_objects.json[0m              [01;32mfind_object.py[0m  [01;32mlocation_utils.py[0m  [01;32mmap_server.py[0m  [01;32mtempCodeRunnerFile.py[0m  [01;32mtts_system.py[0m
+[01;32mapp.py[0m       [01;32mefficientdet_lite2_448_ptq.tflite[0m  [01;32mlabels.txt[0m      [01;32mmain.py[0m            [01;32mserver.py[0m      [34;42mtemplates[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ git clpne[K[K[Kone [7mhttps://github.com/Kishore[27m[7m-[27m[7m0707/Metro-Ticket-Booking-System.git[27m[A]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ [C[C[C[C[C[C[C[C[C[Chttps://github.com/Kishore-0707/Metro-Ticket-Booking-System.git
+[?2004lCloning into 'Metro-Ticket-Booking-System'...
+remote: Enumerating objects: 15, done.[K
+remote: Counting objects:   6% (1/15)[Kremote: Counting objects:  13% (2/15)[Kremote: Counting objects:  20% (3/15)[Kremote: Counting objects:  26% (4/15)[Kremote: Counting objects:  33% (5/15)[Kremote: Counting objects:  40% (6/15)[Kremote: Counting objects:  46% (7/15)[Kremote: Counting objects:  53% (8/15)[Kremote: Counting objects:  60% (9/15)[Kremote: Counting objects:  66% (10/15)[Kremote: Counting objects:  73% (11/15)[Kremote: Counting objects:  80% (12/15)[Kremote: Counting objects:  86% (13/15)[Kremote: Counting objects:  93% (14/15)[Kremote: Counting objects: 100% (15/15)[Kremote: Counting objects: 100% (15/15), done.[K
+remote: Compressing objects:  10% (1/10)[Kremote: Compressing objects:  20% (2/10)[Kremote: Compressing objects:  30% (3/10)[Kremote: Compressing objects:  40% (4/10)[Kremote: Compressing objects:  50% (5/10)[Kremote: Compressing objects:  60% (6/10)[Kremote: Compressing objects:  70% (7/10)[Kremote: Compressing objects:  80% (8/10)[Kremote: Compressing objects:  90% (9/10)[Kremote: Compressing objects: 100% (10/10)[Kremote: Compressing objects: 100% (10/10), done.[K
+Receiving objects:   6% (1/15)Receiving objects:  13% (2/15)Receiving objects:  20% (3/15)Receiving objects:  26% (4/15)Receiving objects:  33% (5/15)Receiving objects:  40% (6/15)Receiving objects:  46% (7/15)Receiving objects:  53% (8/15)Receiving objects:  60% (9/15)Receiving objects:  66% (10/15)remote: Total 15 (delta 2), reused 12 (delta 2), pack-reused 0 (from 0)[K
+Receiving objects:  73% (11/15)Receiving objects:  80% (12/15)Receiving objects:  86% (13/15)Receiving objects:  93% (14/15)Receiving objects: 100% (15/15)Receiving objects: 100% (15/15), 26.54 KiB | 3.79 MiB/s, done.
+Resolving deltas:   0% (0/2)Resolving deltas:  50% (1/2)Resolving deltas: 100% (2/2)Resolving deltas: 100% (2/2), done.
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ ls
+[?2004l[0m[34;42mMetro-Ticket-Booking-System[0m  [01;32mdetected_objects.json[0m              [01;32mlabels.txt[0m         [01;32mmap_server.py[0m          [34;42mtemplates[0m
+[34;42m__pycache__[0m                  [01;32mefficientdet_lite2_448_ptq.tflite[0m  [01;32mlocation_utils.py[0m  [01;32mserver.py[0m              [01;32mtts_system.py[0m
+[01;32mapp.py[0m                       [01;32mfind_object.py[0m                     [01;32mmain.py[0m            [01;32mtempCodeRunnerFile.py[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ cat main.py
+[?2004limport sys
+import cv2
+import numpy as np
+import tensorflow as tf
+from PIL import Image
+import pyttsx3
+import threading
+from socketio import Client
+import time
+import queue
+import logging
+from collections import deque
+import winsound
+import ctypes
+from ctypes import wintypes
+import warnings
+from datetime import datetime
+
+from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
+                             QHBoxLayout, QLabel, QPushButton, QTextEdit, 
+                             QGroupBox, QGridLayout, QFrame, QMessageBox,
+                             QStatusBar, QSplitter, QCheckBox)
+from PyQt5.QtCore import QTimer, QThread, pyqtSignal, Qt, QMutex
+from PyQt5.QtGui import QPixmap, QImage, QFont, QIcon, QPalette, QColor
+
+# Try to import location utils, create dummy if not available
+try:
+    from location_utils import get_approx_location
+except ImportError:
+    def get_approx_location():
+        return 0.0, 0.0
+
+# Suppress TensorFlow warnings
+warnings.filterwarnings("ignore", message=".*tf.lite.Interpreter is deprecated.*")
+
+# -----------------------------
+# Configure logging
+# -----------------------------
+class QTextEditLogger(logging.Handler):
+    def __init__(self, text_widget):
+        super().__init__()
+        self.text_widget = text_widget
+        self.mutex = QMutex()
+
+    def emit(self, record):
+        msg = self.format(record)
+        timestamp = datetime.now().strftime("%H:%M:%S")
+        formatted_msg = f"[{timestamp}] {msg}"
+        
+        self.mutex.lock()
+        try:
+            self.text_widget.append(formatted_msg)
+            # Auto-scroll to bottom
+            cursor = self.text_widget.textCursor()
+            cursor.movePosition(cursor.End)
+            self.text_widget.setTextCursor(cursor)
+        finally:
+            self.mutex.unlock()
+
+# -----------------------------
+# Windows Alert and Vibration System
+# -----------------------------
+class WindowsAlertSystem:
+    def __init__(self):
+        self.vibration_enabled = True
+        self.sound_alerts_enabled = True
+        self.last_vibration_time = 0
+        self.last_sound_time = 0
+        self.vibration_cooldown = 0.3
+        self.sound_cooldown = 0.2
+        
+        self.alert_patterns = {
+            'critical': {'beep_freq': 1000, 'beep_duration': 800, 'vibration_strength': 65535},
+            'warning': {'beep_freq': 800, 'beep_duration': 400, 'vibration_strength': 45000},
+            'info': {'beep_freq': 600, 'beep_duration': 200, 'vibration_strength': 25000},
+            'obstacle_close': {'beep_freq': 1200, 'beep_duration': 300, 'vibration_strength': 55000},
+            'path_clear': {'beep_freq': 400, 'beep_duration': 150, 'vibration_strength': 15000}
+        }
+        
+        self._init_vibration_system()
+
+    def _init_vibration_system(self):
+        try:
+            self.xinput = ctypes.windll.xinput1_4
+            
+            class XINPUT_VIBRATION(ctypes.Structure):
+                _fields_ = [("wLeftMotorSpeed", wintypes.WORD),
+                           ("wRightMotorSpeed", wintypes.WORD)]
+            
+            self.XINPUT_VIBRATION = XINPUT_VIBRATION
+            
+            self.controllers_available = []
+            for i in range(4):
+                vibration = self.XINPUT_VIBRATION(0, 0)
+                result = self.xinput.XInputSetState(i, ctypes.byref(vibration))
+                if result == 0:
+                    self.controllers_available.append(i)
+                    
+        except Exception as e:
+            logging.warning(f"Vibration system initialization failed: {e}")
+            self.vibration_enabled = False
+
+    def vibrate_controller(self, strength=30000, duration=0.3):
+        if not self.vibration_enabled or not hasattr(self, 'controllers_available'):
+            return
+        
+        current_time = time.time()
+        if current_time - self.last_vibration_time < self.vibration_cooldown:
+            return
+        
+        self.last_vibration_time = current_time
+        
+        try:
+            for controller_id in self.controllers_available:
+                vibration = self.XINPUT_VIBRATION(strength, strength)
+                self.xinput.XInputSetState(controller_id, ctypes.byref(vibration))
+            
+            def stop_vibration():
+                time.sleep(duration)
+                try:
+                    for controller_id in self.controllers_available:
+                        stop_vib = self.XINPUT_VIBRATION(0, 0)
+                        self.xinput.XInputSetState(controller_id, ctypes.byref(stop_vib))
+                except Exception:
+                    pass
+            
+            threading.Thread(target=stop_vibration, daemon=True).start()
+            
+        except Exception as e:
+            logging.error(f"Controller vibration error: {e}")
+
+    def play_beep(self, frequency, duration):
+        current_time = time.time()
+        if current_time - self.last_sound_time < self.sound_cooldown:
+            return
+        
+        self.last_sound_time = current_time
+        
+        try:
+            threading.Thread(target=winsound.Beep, args=(frequency, duration), daemon=True).start()
+        except Exception:
+            pass
+
+    def critical_alert(self, message="Critical obstacle detected!"):
+        pattern = self.alert_patterns['critical']
+        
+        def critical_beep_sequence():
+            for i in range(3):
+                try:
+                    winsound.Beep(pattern['beep_freq'], 200)
+                    time.sleep(0.1)
+                except Exception:
+                    break
+        
+        threading.Thread(target=critical_beep_sequence, daemon=True).start()
+        self.vibrate_controller(pattern['vibration_strength'], 0.8)
+        logging.critical(f"CRITICAL ALERT: {message}")
+
+    def warning_alert(self, message="Obstacle detected"):
+        pattern = self.alert_patterns['warning']
+        self.play_beep(pattern['beep_freq'], pattern['beep_duration'])
+        self.vibrate_controller(pattern['vibration_strength'], 0.4)
+        logging.warning(f"WARNING: {message}")
+
+    def info_alert(self, message="Information"):
+        pattern = self.alert_patterns['info']
+        self.play_beep(pattern['beep_freq'], pattern['beep_duration'])
+        self.vibrate_controller(pattern['vibration_strength'], 0.2)
+        logging.info(f"INFO: {message}")
+
+    def obstacle_alert(self, obstacle_type, distance, direction):
+        message = f"{obstacle_type} {distance} {direction}"
+        
+        if distance in ['very close']:
+            self.critical_alert(message)
+        elif distance in ['close']:
+            self.warning_alert(message)
+        else:
+            self.info_alert(message)
+
+    def path_clear_alert(self):
+        pattern = self.alert_patterns['path_clear']
+        
+        def clear_path_tone():
+            try:
+                for freq in [300, 400, 500]:
+                    winsound.Beep(freq, 100)
+                    time.sleep(0.05)
+            except Exception:
+                pass
+        
+        threading.Thread(target=clear_path_tone, daemon=True).start()
+        self.vibrate_controller(pattern['vibration_strength'], 0.1)
+
+    def startup_alert(self):
+        def startup_sequence():
+            try:
+                for freq in [400, 500, 600, 800]:
+                    winsound.Beep(freq, 150)
+                    time.sleep(0.1)
+            except Exception:
+                pass
+        
+        threading.Thread(target=startup_sequence, daemon=True).start()
+        self.vibrate_controller(20000, 0.5)
+
+# -----------------------------
+# TTS System
+# -----------------------------
+class SafeTTS(QThread):
+    def __init__(self):
+        super().__init__()
+        self.engine = None
+        self.tts_queue = queue.Queue()
+        self.speaking = False
+        self.initialized = False
+        self.MIN_PAUSE = 1.5
+        self.MAX_QUEUE_SIZE = 3
+        self._running = True
+        
+        self._init_engine()
+        self.start()
+
+    def _init_engine(self):
+        try:
+            self.engine = pyttsx3.init()
+            voices = self.engine.getProperty('voices')
+            
+            if voices:
+                for voice in voices:
+                    if 'female' in voice.name.lower() or 'zira' in voice.name.lower():
+                        self.engine.setProperty('voice', voice.id)
+                        break
+            
+            self.engine.setProperty('rate', 150)
+            self.engine.setProperty('volume', 0.95)
+            self.initialized = True
+            logging.info("TTS initialized successfully")
+            
+        except Exception as e:
+            logging.error(f"TTS initialization failed: {e}")
+            self.initialized = False
+
+    def run(self):
+        while self._running:
+            try:
+                msg = self.tts_queue.get(timeout=1)
+                if msg == "__EXIT__":
+                    break
+                
+                if self.initialized and self.engine:
+                    self.speaking = True
+                    self.engine.say(msg)
+                    self.engine.runAndWait()
+                    self.speaking = False
+                    logging.info(f"Spoke: {msg}")
+                
+                time.sleep(self.MIN_PAUSE)
+                self.tts_queue.task_done()
+                
+            except queue.Empty:
+                continue
+            except Exception as e:
+                logging.error(f"TTS worker error: {e}")
+                self.speaking = False
+
+    def speak(self, msg, priority=False):
+        if not msg or not self._running:
+            return
+            
+        try:
+            if priority:
+                while not self.tts_queue.empty():
+                    try:
+                        self.tts_queue.get_nowait()
+                    except queue.Empty:
+                        break
+                self.tts_queue.put(msg)
+                logging.info(f"Priority message queued: {msg}")
+            
+            elif self.tts_queue.qsize() < self.MAX_QUEUE_SIZE:
+                self.tts_queue.put(msg)
+            
+        except Exception as e:
+            logging.error(f"TTS queue error: {e}")
+
+    def is_busy(self):
+        return self.speaking or not self.tts_queue.empty()
+
+    def shutdown(self):
+        self._running = False
+        self.tts_queue.put("__EXIT__")
+        self.wait()
+
+# -----------------------------
+# Navigation System
+# -----------------------------
+class NavigationSystem:
+    def __init__(self, alert_system, tts_system):
+        self.alert_system = alert_system
+        self.tts_system = tts_system
+        self.confidence_threshold = 0.4
+        self.previous_guidance = ""
+        self.guidance_history = deque(maxlen=3)
+        self.emergency_objects = {'person', 'car', 'truck', 'bus', 'motorcycle', 'bicycle'}
+        self.last_clear_path_time = time.time()
+        self.clear_path_interval = 8
+        self.last_obstacle_count = 0
+        self.last_obstacle_alert_time = {}
+        self.obstacle_alert_cooldown = 2.0
+
+        # Initialize TensorFlow Lite model
+        self.interpreter = self.load_model_safe()
+        if self.interpreter:
+            self.input_details = self.interpreter.get_input_details()
+            self.output_details = self.interpreter.get_output_details()
+        
+        # Load labels
+        self.labels = self.load_labels_safe()
+
+    def load_model_safe(self):
+        try:
+            interpreter = tf.lite.Interpreter(model_path="efficientdet_lite2_448_ptq.tflite")
+            interpreter.allocate_tensors()
+            logging.info("TensorFlow Lite model loaded successfully")
+            self.tts_system.speak("AI model loaded successfully")
+            self.alert_system.info_alert("AI model ready")
+            return interpreter
+        except Exception as e:
+            logging.error(f"Model loading failed: {e}")
+            self.tts_system.speak("Warning: AI model failed to load", priority=True)
+            self.alert_system.critical_alert("AI model loading failed")
+            return None
+
+    def load_labels_safe(self):
+        try:
+            with open("labels.txt") as f:
+                labels = [line.strip() for line in f.readlines()]
+            logging.info(f"Loaded {len(labels)} object labels")
+            return labels
+        except Exception as e:
+            logging.error(f"Labels loading failed: {e}")
+            self.tts_system.speak("Warning: Object labels not loaded", priority=True)
+            self.alert_system.warning_alert("Labels file missing")
+            return []
+
+    def get_distance_category(self, box_height, frame_height):
+        ratio = frame_height / box_height
+        if ratio < 3:
+            return "very close", 3
+        elif ratio < 6:
+            return "close", 2
+        elif ratio < 10:
+            return "nearby", 1
+        else:
+            return "far", 0
+
+    def is_critical_obstacle(self, label, distance_priority):
+        label_lower = label.lower()
+        is_emergency = any(obj in label_lower for obj in self.emergency_objects)
+        return is_emergency and distance_priority >= 2
+
+    def get_direction_from_position(self, x_center, width):
+        if x_center < width/3:
+            return "left"
+        elif x_center < 2*width/3:
+            return "center"
+        else:
+            return "right"
+
+    def should_alert_obstacle(self, obstacle_type, distance):
+        current_time = time.time()
+        key = f"{obstacle_type}_{distance}"
+        
+        if key in self.last_obstacle_alert_time:
+            if current_time - self.last_obstacle_alert_time[key] < self.obstacle_alert_cooldown:
+                return False
+        
+        self.last_obstacle_alert_time[key] = current_time
+        return True
+
+    def analyze_obstacles(self, frame):
+        if not self.interpreter:
+            return {"left": True, "center": True, "right": True}, [], [], frame
+
+        h, w, _ = frame.shape
+        input_size = self.input_details[0]['shape'][1]
+        
+        img = Image.fromarray(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))
+        img_resized = img.resize((input_size, input_size))
+        input_data = np.expand_dims(np.array(img_resized), axis=0).astype(np.uint8)
+        
+        self.interpreter.set_tensor(self.input_details[0]['index'], input_data)
+        self.interpreter.invoke()
+        
+        boxes = self.interpreter.get_tensor(self.output_details[0]['index'])[0]
+        classes = self.interpreter.get_tensor(self.output_details[1]['index'])[0]
+        scores = self.interpreter.get_tensor(self.output_details[2]['index'])[0]
+        
+        lane_status = {"left": True, "center": True, "right": True}
+        critical_obstacles = []
+        all_obstacles = []
+        
+        for i in range(len(scores)):
+            if scores[i] > self.confidence_threshold:
+                if int(classes[i]) >= len(self.labels):
+                    continue
+                    
+                label = self.labels[int(classes[i])]
+                ymin, xmin, ymax, xmax = boxes[i]
+                
+                startX, startY = int(xmin*w), int(ymin*h)
+                endX, endY = int(xmax*w), int(ymax*h)
+                box_height = endY - startY
+                x_center = (startX + endX) / 2
+                
+                distance_text, distance_priority = self.get_distance_category(box_height, h)
+                direction = self.get_direction_from_position(x_center, w)
+                
+                if distance_priority > 0:
+                    obstacle_info = {
+                        'label': label,
+                        'distance': distance_text,
+                        'priority': distance_priority,
+                        'confidence': scores[i],
+                        'position': (startX, startY, endX, endY),
+                        'direction': direction
+                    }
+                    
+                    all_obstacles.append(obstacle_info)
+                    
+                    if self.should_alert_obstacle(label, distance_text):
+                        self.alert_system.obstacle_alert(label, distance_text, direction)
+                    
+                    if self.is_critical_obstacle(label, distance_priority):
+                        critical_obstacles.append(obstacle_info)
+                    
+                    if x_center < w/3:
+                        lane_status["left"] = False
+                    elif x_center < 2*w/3:
+                        lane_status["center"] = False
+                    else:
+                        lane_status["right"] = False
+                    
+                    color = (0, 0, 255) if distance_priority >= 2 else (0, 255, 0)
+                    thickness = 3 if distance_priority >= 2 else 2
+                    
+                    cv2.rectangle(frame, (startX, startY), (endX, endY), color, thickness)
+                    cv2.putText(frame, f"{label} ({distance_text})", (startX, startY-10),
+                                cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
+        
+        return lane_status, critical_obstacles, all_obstacles, frame
+
+    def generate_guidance(self, lane_status, critical_obstacles, all_obstacles):
+        current_time = time.time()
+        
+        if critical_obstacles:
+            critical_obj = critical_obstacles[0]
+            guidance = f"Stop! {critical_obj['label']} {critical_obj['distance']} ahead!"
+            self.alert_system.critical_alert(guidance)
+            self.tts_system.speak(guidance, priority=True)
+            self.previous_guidance = guidance
+            return guidance
+        
+        guidance = self._get_movement_guidance(lane_status)
+        
+        if all_obstacles:
+            nearby_objects = [obj for obj in all_obstacles if obj['priority'] >= 1]
+            if nearby_objects:
+                obstacle_info = self._format_obstacle_info(nearby_objects[:2])
+                full_guidance = f"{guidance}. {obstacle_info}"
+            else:
+                full_guidance = guidance
+        else:
+            if current_time - self.last_clear_path_time > self.clear_path_interval:
+                full_guidance = "Path is clear, continue straight"
+                if self.previous_guidance != full_guidance:
+                    self.alert_system.path_clear_alert()
+                self.last_clear_path_time = current_time
+            else:
+                full_guidance = guidance
+        
+        self.guidance_history.append(guidance)
+        
+        should_speak = (
+            full_guidance != self.previous_guidance or
+            len(set(self.guidance_history)) == 1
+        )
+        
+        if should_speak and not self.tts_system.is_busy():
+            self.tts_system.speak(full_guidance)
+            self.previous_guidance = full_guidance
+        
+        return full_guidance
+
+    def _get_movement_guidance(self, lane_status):
+        left_clear = lane_status["left"]
+        center_clear = lane_status["center"]
+        right_clear = lane_status["right"]
+        
+        if center_clear:
+            if left_clear and right_clear:
+                return "Continue straight"
+            else:
+                return "Go straight, obstacles on sides"
+        elif left_clear and right_clear:
+            return "Obstacle ahead, move left or right"
+        elif left_clear:
+            return "Move left"
+        elif right_clear:
+            return "Move right"
+        else:
+            return "Stop! Obstacles in all directions"
+
+    def _format_obstacle_info(self, obstacles):
+        if not obstacles:
+            return ""
+        
+        if len(obstacles) == 1:
+            obj = obstacles[0]
+            return f"{obj['label']} detected {obj['distance']}"
+        else:
+            obj_list = [f"{obj['label']}" for obj in obstacles]
+            return f"Multiple objects: {', '.join(obj_list)}"
+
+# -----------------------------
+# Video Processing Thread
+# -----------------------------
+class VideoThread(QThread):
+    frame_ready = pyqtSignal(np.ndarray)
+    status_update = pyqtSignal(str, int, str)  # guidance, obstacle_count, status
+
+    def __init__(self, navigation_system):
+        super().__init__()
+        self.navigation_system = navigation_system
+        self.running = False
+        self.cap = None
+
+    def start_capture(self):
+        self.cap = cv2.VideoCapture(0)
+        if not self.cap.isOpened():
+            for i in range(1, 4):
+                self.cap = cv2.VideoCapture(i)
+                if self.cap.isOpened():
+                    logging.info(f"Using camera index {i}")
+                    break
+        
+        if not self.cap.isOpened():
+            logging.error("No camera available")
+            return False
+        
+        self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+        self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
+        self.cap.set(cv2.CAP_PROP_FPS, 15)
+        
+        logging.info("Camera initialized successfully")
+        return True
+
+    def run(self):
+        self.running = True
+        
+        while self.running:
+            if self.cap and self.cap.isOpened():
+                ret, frame = self.cap.read()
+                if ret:
+                    try:
+                        lane_status, critical_obstacles, all_obstacles, processed_frame = \
+                            self.navigation_system.analyze_obstacles(frame)
+                        guidance = self.navigation_system.generate_guidance(
+                            lane_status, critical_obstacles, all_obstacles)
+                        
+                        self.frame_ready.emit(processed_frame)
+                        self.status_update.emit(guidance, len(all_obstacles), "Running")
+                        
+                    except Exception as e:
+                        logging.error(f"Processing error: {e}")
+            
+            self.msleep(33)  # ~30 FPS
+
+    def stop(self):
+        self.running = False
+        if self.cap:
+            self.cap.release()
+        self.quit()
+        self.wait()
+
+# -----------------------------
+# Main Application Window
+# -----------------------------
+class BlindNavigationApp(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle("Windows Blind Navigation Assistant")
+        self.setGeometry(100, 100, 1200, 800)
+        
+        # Initialize systems
+        self.alert_system = WindowsAlertSystem()
+        self.tts_system = SafeTTS()
+        self.navigation_system = NavigationSystem(self.alert_system, self.tts_system)
+        
+        # Initialize video thread
+        self.video_thread = VideoThread(self.navigation_system)
+        self.video_thread.frame_ready.connect(self.update_frame)
+        self.video_thread.status_update.connect(self.update_status)
+        
+        # Setup UI
+        self.setup_ui()
+        self.setup_logging()
+        
+        # Status
+        self.system_running = False
+        
+        # Initial startup
+        self.alert_system.startup_alert()
+        self.tts_system.speak("Windows Blind Navigation System ready", priority=True)
+
+    def setup_ui(self):
+        central_widget = QWidget()
+        self.setCentralWidget(central_widget)
+        
+        # Main layout
+        main_layout = QHBoxLayout(central_widget)
+        
+        # Left side - Video and controls
+        left_widget = QWidget()
+        left_layout = QVBoxLayout(left_widget)
+        
+        # Video display
+        self.video_label = QLabel()
+        self.video_label.setMinimumSize(640, 480)
+        self.video_label.setStyleSheet("border: 2px solid gray; background-color: black;")
+        self.video_label.setAlignment(Qt.AlignCenter)
+        self.video_label.setText("Camera Feed\n(Press Start to begin)")
+        left_layout.addWidget(self.video_label)
+        
+        # Controls group
+        controls_group = QGroupBox("Controls")
+        controls_layout = QGridLayout(controls_group)
+        
+        self.start_btn = QPushButton("Start Navigation")
+        self.start_btn.clicked.connect(self.start_navigation)
+        self.start_btn.setStyleSheet("QPushButton { background-color: #4CAF50; color: white; font-size: 14px; padding: 8px; }")
+        
+        self.stop_btn = QPushButton("Stop Navigation")
+        self.stop_btn.clicked.connect(self.stop_navigation)
+        self.stop_btn.setEnabled(False)
+        self.stop_btn.setStyleSheet("QPushButton { background-color: #f44336; color: white; font-size: 14px; padding: 8px; }")
+        
+        self.audio_toggle = QCheckBox("Audio Alerts")
+        self.audio_toggle.setChecked(True)
+        self.audio_toggle.toggled.connect(self.toggle_audio)
+        
+        self.vibration_toggle = QCheckBox("Vibration")
+        self.vibration_toggle.setChecked(True)
+        self.vibration_toggle.toggled.connect(self.toggle_vibration)
+        
+        self.exit_btn = QPushButton("Exit Application")
+        self.exit_btn.clicked.connect(self.close_application)
+        self.exit_btn.setStyleSheet("QPushButton { background-color: #FF9800; color: white; font-size: 14px; padding: 8px; }")
+        
+        controls_layout.addWidget(self.start_btn, 0, 0)
+        controls_layout.addWidget(self.stop_btn, 0, 1)
+        controls_layout.addWidget(self.audio_toggle, 1, 0)
+        controls_layout.addWidget(self.vibration_toggle, 1, 1)
+        controls_layout.addWidget(self.exit_btn, 2, 0, 1, 2)
+        
+        left_layout.addWidget(controls_group)
+        
+        # Right side - Status and logs
+        right_widget = QWidget()
+        right_layout = QVBoxLayout(right_widget)
+        
+        # Status group
+        status_group = QGroupBox("System Status")
+        status_layout = QVBoxLayout(status_group)
+        
+        self.camera_status = QLabel("Camera: Not initialized")
+        self.model_status = QLabel("AI Model: Not loaded")
+        self.guidance_status = QLabel("Current Guidance: None")
+        self.obstacle_count = QLabel("Obstacles: 0")
+        
+        # Style status labels
+        for label in [self.camera_status, self.model_status, self.guidance_status, self.obstacle_count]:
+            label.setStyleSheet("QLabel { font-size: 12px; padding: 4px; }")
+        
+        status_layout.addWidget(self.camera_status)
+        status_layout.addWidget(self.model_status)
+        status_layout.addWidget(self.guidance_status)
+        status_layout.addWidget(self.obstacle_count)
+        
+        right_layout.addWidget(status_group)
+        
+        # Logs group
+        logs_group = QGroupBox("System Logs")
+        logs_layout = QVBoxLayout(logs_group)
+        
+        self.log_text = QTextEdit()
+        self.log_text.setMaximumHeight(300)
+        self.log_text.setReadOnly(True)
+        self.log_text.setStyleSheet("QTextEdit { font-family: monospace; font-size: 10px; }")
+        
+        logs_layout.addWidget(self.log_text)
+        right_layout.addWidget(logs_group)
+        
+        # Add to main layout with splitter
+        splitter = QSplitter(Qt.Horizontal)
+        splitter.addWidget(left_widget)
+        splitter.addWidget(right_widget)
+        splitter.setSizes([600, 400])
+        
+        main_layout.addWidget(splitter)
+        
+        # Status bar
+        self.statusBar().showMessage("Ready - Press Start to begin navigation")
+        
+        # Update initial status
+        self.update_model_status()
+
+    def setup_logging(self):
+        # Add custom log handler
+        log_handler = QTextEditLogger(self.log_text)
+        log_handler.setFormatter(logging.Formatter('%(levelname)s - %(message)s'))
+        
+        logger = logging.getLogger()
+        logger.addHandler(log_handler)
+        logger.setLevel(logging.INFO)
+
+    def update_model_status(self):
+        if self.navigation_system.interpreter:
+            self.model_status.setText("AI Model: ✅ Loaded")
+            self.model_status.setStyleSheet("QLabel { color: green; font-size: 12px; padding: 4px; }")
+        else:
+            self.model_status.setText("AI Model: ❌ Failed to load")
+            self.model_status.setStyleSheet("QLabel { color: red; font-size: 12px; padding: 4px; }")
+
+    def start_navigation(self):
+        if self.video_thread.start_capture():
+            self.video_thread.start()
+            self.system_running = True
+            
+            self.start_btn.setEnabled(False)
+            self.stop_btn.setEnabled(True)
+            
+            self.camera_status.setText("Camera: ✅ Active")
+            self.camera_status.setStyleSheet("QLabel { color: green; font-size: 12px; padding: 4px; }")
+            
+            self.statusBar().showMessage("Navigation Active - System is monitoring for obstacles")
+            
+            logging.info("Navigation system started")
+            self.tts_system.speak("Navigation started", priority=True)
+        else:
+            QMessageBox.critical(self, "Camera Error", 
+                               "Failed to initialize camera. Please check your camera connection and try again.")
+            self.camera_status.setText("Camera: ❌ Failed")
+            self.camera_status.setStyleSheet("QLabel { color: red; font-size: 12px; padding: 4px; }")
+
+    def stop_navigation(self):
+        self.video_thread.stop()
+        self.system_running = False
+
+        self.start_btn.setEnabled(True)
+        self.stop_btn.setEnabled(False)
+
+        self.camera_status.setText("Camera: ⛔ Stopped")
+        self.camera_status.setStyleSheet("QLabel { color: orange; font-size: 12px; padding: 4px; }")
+
+        self.statusBar().showMessage("Navigation stopped")
+        logging.info("Navigation system stopped")
+        self.tts_system.speak("Navigation stopped", priority=True)
+
+    def toggle_audio(self, state):
+        self.alert_system.sound_alerts_enabled = state
+        status = "enabled" if state else "disabled"
+        logging.info(f"Audio alerts {status}")
+
+    def toggle_vibration(self, state):
+        self.alert_system.vibration_enabled = state
+        status = "enabled" if state else "disabled"
+        logging.info(f"Vibration alerts {status}")
+
+    def close_application(self):
+        choice = QMessageBox.question(
+            self, "Exit", "Are you sure you want to exit?",
+            QMessageBox.Yes | QMessageBox.No
+        )
+        if choice == QMessageBox.Yes:
+            self.close()
+
+    def update_frame(self, frame):
+        rgb_image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        h, w, ch = rgb_image.shape
+        bytes_per_line = ch * w
+        qimg = QImage(rgb_image.data, w, h, bytes_per_line, QImage.Format_RGB888)
+        self.video_label.setPixmap(QPixmap.fromImage(qimg))
+
+    def update_status(self, guidance, obstacle_count, status):
+        self.guidance_status.setText(f"Current Guidance: {guidance}")
+        self.obstacle_count.setText(f"Obstacles: {obstacle_count}")
+
+        if "Stop!" in guidance:
+            self.guidance_status.setStyleSheet("QLabel { color: red; font-weight: bold; }")
+        elif "Move" in guidance:
+            self.guidance_status.setStyleSheet("QLabel { color: orange; }")
+        else:
+            self.guidance_status.setStyleSheet("QLabel { color: green; }")
+
+    def closeEvent(self, event):
+        # Cleanup before exit
+        if self.system_running:
+            self.video_thread.stop()
+
+        self.tts_system.shutdown()
+        event.accept()
+
+
+# -----------------------------
+# Application Entry Point
+# -----------------------------
+def main():
+    app = QApplication(sys.argv)
+    window = BlindNavigationApp()
+    window.show()
+    sys.    exit(app.exec_())
+
+
+if __name__ == "__main__":
+    main()
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ c;s[K[Kls
+[?2004lCommand 'cls' not found, but there are 20 similar ones.
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ ls
+[?2004l[0m[34;42mMetro-Ticket-Booking-System[0m  [01;32mapp.py[0m                 [01;32mefficientdet_lite2_448_ptq.tflite[0m  [01;32mlabels.txt[0m         [01;32mmain.py[0m        [01;32mserver.py[0m              [34;42mtemplates[0m
+[34;42m__pycache__[0m                  [01;32mdetected_objects.json[0m  [01;32mfind_object.py[0m                     [01;32mlocation_utils.py[0m  [01;32mmap_server.py[0m  [01;32mtempCodeRunnerFile.py[0m  [01;32mtts_system.py[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ cd [7mMetro-Ticket-Booking-System[27mMetro-Ticket-Booking-System
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ ls
+[?2004l[0m[01;32mLICENSE[0m  [01;32mmetro.c[0m  [01;32mmetro.exe[0m  [01;32mmetro.o[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ cat metro.c
+[?2004l#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#define MAX 27
+#define MAX_1 18
+#define FARE_1 10
+#define FARE_2 20
+#define FARE_3 30
+#define FARE_4 40
+#define FARE_5 50
+
+struct node {
+    int num;
+    char data[50];
+    struct node *next;
+};
+struct node *head=NULL;
+struct node *blue_head = NULL;
+struct node *green_head = NULL;
+
+struct node *creation(struct node *, char [], int);
+void traverse(struct node *);
+int searching(struct node *,int ,int);
+int price_calculation(int);
+int printing(struct node *,int,int,int);
+int printing_from_pt(struct node *,int);
+int printing_arrival_pt(struct node *,int);
+
+char blue_line[MAX][100] = {
+    "BLUE LINE",
+    "Airport", "Meenambakkam", "NanganallurRoad",
+    "Alandur", "Guindy", "Little_Mount", "Saidapet",
+    "Nandanam", "Teynampet", "AG_DMS", "Thousand_Lights", "LIC",
+    "Government_Estate", "M.G.Ramachandran_Central",
+    "High_Court", "Mannadi", "Washermanpet", "Sir_Theagaraya_College",
+    "Tondiarpet", "New_Washermanpet", "Tollgate", "Kaladipet",
+    "Tiruvottriyur_Theradi", "Tiruvottriyur", "Wimco_Nagar",
+    "Wimco_Nagar_Depot"
+};
+char green_line[MAX_1][100] = {
+    "GREEN LINE",
+    "St.Thomas_Mount","Alandur",
+    "Ekkattuthangal","Ashok_Nagar","Vadapalani","Arumbakkam",
+    "CMBT","Koyambedu",
+    "Thirumangalam","Anna_Nagar_Tower","Anna_Nagar_East",
+    "Shenoy_Nagar","Pachaiyappa_College","Kilpauk_Medical_College",
+    "Nehru_Park","Egmore","M.G.Ramachandran_Central"
+};
+
+int main() {
+    int i, option,from_pt,arrival_pt,count,prices,blue_count,green_count,total_station,blue_line_stop,green_line_stop,fare;
+    printf("\n1. Passing in Blue Line\n2. Passing in Green Line\n3. Passing from Blue Line to Green line\n4.Passing From Green Line to Blue Line\n ");
+    scanf("%d", &option);
+    switch(option) {
+        case 1:
+            for (i = 0; i < MAX; i++) {
+                blue_head = creation(blue_head, blue_line[i], i); // Pass blue_head to creation
+            }
+            traverse(blue_head);
+            printf("\nEnter the starting point station number (1-26): ");
+        	scanf("%d",&from_pt);
+        	printf("\nEnter the desination station number(1-26):");
+        	scanf("%d",&arrival_pt);
+        	count=searching(blue_head,from_pt,arrival_pt);
+        	prices=price_calculation(count);
+        	printing(blue_head,from_pt,arrival_pt,prices);
+            break;
+        case 2:
+            for (i = 0; i < MAX_1; i++) {
+                green_head = creation(green_head, green_line[i], i); // Pass green_head to creation
+            }
+            traverse(green_head);
+            printf("\nEnter the starting point station number (1-17): ");
+        	scanf("%d",&from_pt);
+        	printf("\nEnter the desination station number(1-17):");
+        	scanf("%d",&arrival_pt);
+        	count=searching(green_head,from_pt,arrival_pt);
+        	prices=price_calculation(count);
+        	printing(green_head,from_pt,arrival_pt,prices);
+            break;
+        case 3:
+        	blue_line_stop=4;
+			green_line_stop=2;
+            for (i = 0; i < MAX; i++) {
+                blue_head = creation(blue_head, blue_line[i], i); // Pass blue_head to creation
+            }
+            traverse(blue_head);
+            printf("\nEnter the starting point station number (1-26): ");
+        	scanf("%d",&from_pt);
+
+            for (i = 0; i < MAX_1; i++) {
+                green_head = creation(green_head, green_line[i], i); // Pass green_head to creation
+            }
+            traverse(green_head);
+            printf("\nEnter the desination station number(1-17):");
+        	scanf("%d",&arrival_pt);
+        	blue_count=searching(blue_head,from_pt,blue_line_stop);
+            //function to count from Alandur to desination point
+            green_count=searching(green_head,arrival_pt,green_line_stop);
+            total_station=blue_count+green_count;
+            prices=price_calculation(total_station);
+			printf("\n---------------------------------------------------------------\n");
+    		printf("TICKET :\n");
+            printing_from_pt(blue_head,from_pt);
+            printing_arrival_pt(green_head,arrival_pt);
+            printf("\nFARE :%d",prices);
+            printf("\n\n");
+    		printf("\t\t::.::....:::.:.::...::....\n");
+			printf("\t\t  ..::.::.::.::.::.."""". ::\n");
+			printf("\t\t::..:::::..:::...::.""""::..\n");
+			printf("\t\t::.::....:::. :::.........\n");
+			printf("\t\t ..:: """"::.::.::...:: ::\n");
+			printf("\t\t::.::."""":::.: ::...:::..\n");
+			printf("\t\t::.:: .: :.::..::.........\n");
+			printf("\t\t::.::..  ..:::.::....:....\n");
+			printf("\t\t ..::.::.::.::.::.  .::.::\n");
+			printf("\t\t ..::.::.::.::.::...:.. ::\n");
+			printf("\t\t::.::....:::. :::.""""....\n");
+			printf("\t\t::.::.::.:::..::.."""".::. .\n");
+			printf("\n\n");
+			printf("PLEASE RETAIN THE BILL TILL YOUR JOURNEY\n");
+            printf("\n---------------------------------------------------------------\n");
+			break;
+
+
+        case 4:
+        	blue_line_stop=4;
+			green_line_stop=2;
+        	for (i = 0; i < MAX_1; i++) {
+                green_head = creation(green_head, green_line[i], i); // Pass green_head to creation
+            }
+            traverse(green_head);
+            printf("\nEnter the starting point station number (1-17): ");
+        	scanf("%d",&from_pt);
+        	for (i = 0; i < MAX; i++) {
+                blue_head = creation(blue_head, blue_line[i], i); // Pass blue_head to creation
+            }
+            traverse(blue_head);
+            printf("\nEnter the desination station number(1-26):");
+        	scanf("%d",&arrival_pt);
+        	green_count=searching(green_head,from_pt,green_line_stop);
+        	blue_count=searching(blue_head,arrival_pt,blue_line_stop);
+        	total_station=blue_count+green_count;
+            prices=price_calculation(total_station);
+            printf("\n---------------------------------------------------------------\n");
+            printf("\t\tCHENNAI METRO COPORATION\n");
+    		printf("TICKET :\n");
+            printing_from_pt(green_head,from_pt);
+            printing_arrival_pt(blue_head,arrival_pt);
+            printf("\nFARE :%d",prices);
+            printf("\n\n");
+    		printf("\t\t::.""""....:::.:.::...::....\n");
+			printf("\t\t  ."""":.::.::.::.::..... ::\n");
+			printf("\t\t::..:::::..:::...::...::..\n");
+			printf("\t\t::.::....:::. :::.......""""\n");
+			printf("\t\t ..::.::.::.::.::....:: """"\n");
+			printf("\t\t::.::.::.:::.: ::...:::...\n");
+			printf("\t\t::.::...::"""":..::.........\n");
+			printf("\t\t::.::..  .""""::.::....:....\n");
+			printf("\t\t ..::.::.::.::.::.  .::.::\n");
+			printf("\t\t ..::.::.::.::.::...:.. ::\n");
+			printf("\t\t"""".::....:::. :::.........\n");
+			printf("\t\t"""".::.::.:::..::..::.::. .\n");
+			printf("\n\n");
+			printf("PLEASE RETAIN THE BILL TILL YOUR JOURNEY\n");
+            printf("\n---------------------------------------------------------------\n");
+            break;
+
+
+
+
+        default:
+            printf("Invalid option\n");
+    }
+    return 0;
+}
+
+struct node *creation(struct node *head, char line[], int st_num) {		//creation of node
+    struct node *ptr = (struct node *) malloc(sizeof(struct node));
+    ptr->num = st_num;
+    strcpy(ptr->data, line);
+    ptr->next = NULL;
+
+    if (head == NULL) {
+        head = ptr;
+    } else {
+        struct node *temp = head;
+        while (temp->next != NULL) {
+            temp = temp->next;
+        }
+        temp->next = ptr;
+    }
+    return head;
+}
+
+void traverse(struct node *head) {				//Traversal of Node
+    struct node *temp = head;
+    while(temp != NULL) {
+        printf("%d  %s \n", temp->num, temp->data);
+        temp = temp->next;
+    }
+}
+
+int searching(struct node *head,int start, int stop) {
+    struct node *temp = head;
+    int count = 1;
+
+    // Find the start and stop nodes
+    struct node *start_node = NULL;
+    struct node *stop_node = NULL;
+    while (temp != NULL)
+    {
+        if (temp->num == start)
+            start_node = temp;
+        if (temp->num == stop)
+            stop_node = temp;
+        temp = temp->next;
+    }
+
+    // Count the stations between start and stop
+    if (start_node != NULL && stop_node != NULL)
+    {
+        if (start_node->num < stop_node->num)
+        {
+            temp = start_node->next;
+            while (temp != stop_node)
+            {
+                count++;
+                temp = temp->next;
+            }
+        }
+    else
+        {
+            temp = stop_node->next;
+            while (temp != start_node)
+            {
+                count++;
+                temp = temp->next;
+            }
+        }
+    }
+
+    // Print the number of stations
+    return count;
+}
+
+ int price_calculation(int count) {
+    int fare,passengers;
+    printf("\nHow many number of passengers are going to travel : ");
+    scanf("%d",&passengers);
+    if (count == 1) {
+        fare = FARE_1*passengers;
+    } else if (count <= 3) {
+        fare = FARE_2*passengers;
+    } else if (count <= 10) {
+        fare = FARE_3*passengers;
+    } else if (count <= 18) {
+        fare = FARE_4*passengers;
+    } else {
+        fare = FARE_5*passengers;
+    }
+	printf("%d",fare);
+return fare;
+}
+
+int printing(struct node *head, int from_pt, int arrival_pt, int fare) {
+    char from_1[100], to_point[100]; // Assuming station names can be up to 100 characters long
+    struct node *temp = head;
+
+    printf("\n---------------------------------------------------------------\n");
+    printf("TICKET :\n");
+    // Find the station names corresponding to from_pt and arrival_pt
+    while (temp != NULL) {
+        if (temp->num == from_pt) {
+            strcpy(from_1, temp->data);
+        }
+        if (temp->num == arrival_pt) {
+            strcpy(to_point, temp->data);
+        }
+        temp = temp->next;
+    }
+
+    printf("From point : %s\nTo point : %s\nTotal amount : %d\n", from_1, to_point, fare);
+    printf("\n\n");
+    printf("\t\t::.::....:::.:.::...::....\n");
+	printf("\t\t  ..::.::  :.::.::..... ::\n");
+	printf("\t\t::..:: ::  :...::.."""".\n");
+	printf("\t\t::.::....:::. :::... """".\n");
+	printf("\t\t ..::.::.::.::.::....:: ::\n");
+	printf("\t\t::.::.::.:::.: ::...:::...\n");
+	printf("\t\t::.::...::.::..::.........\n");
+	printf("\t\t""""::.  ..:::.::....:....\n");
+	printf("\t\t"""":.::.::.::.::.  .::.::\n");
+	printf("\t\t ..::.::.  .::.::...:.. ::\n");
+	printf("\t\t:"""":...:::. :::.........::\n");
+	printf("\t\t:"""":::.:::..::..::.::. .::\n");
+	printf("\n\n");
+	printf("PLEASE RETAIN THE BILL TILL YOUR JOURNEY\n");
+	printf("\n---------------------------------------------------------------\n");
+
+}
+
+int printing_from_pt(struct node *head ,int from_pt)
+{
+	struct node *temp=head;
+	char from_name[100];
+	while (temp != NULL) {
+        if (temp->num == from_pt) {
+            strcpy(from_name, temp->data);
+        }
+        temp = temp->next;
+    }
+    printf("\nFrom point :%s",from_name);
+
+}
+
+int printing_arrival_pt(struct node *head,int arrival_pt)
+{
+	char to_name[100];
+	struct node *temp=head;
+	while (temp != NULL) {
+        if (temp->num == arrival_pt) {
+            strcpy(to_name, temp->data);
+        }
+        temp = temp->next;
+    }
+
+    printf("\nTo point : %s",to_name);
+}
+
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ cler
+[?2004lCommand 'cler' not found, did you mean:
+  command 'clear' from deb ncurses-bin (6.4+20231209-1)
+  command 'cver' from deb gplcver (2.12a-2)
+  command 'clex' from deb clex (4.6.patch8-1)
+  command 'cleo' from deb cleo (0.004-4)
+Try: sudo apt install <deb name>
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ clerar
+[?2004l[H[2J[3J[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ [K[A[K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ h[Kgit  status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ git remote add orh[Kigin [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit  status[C[C[C[C[C[C[C[C[6Pclear[1Prat metro.cler[Kargit  status[C[C[C[C[C[C[C[C[Kgit rmot[K[K[Kemote add origin [7mMetro-Ticket-Booking-System[27m[1PMetro-Ticket-Booking-Syste[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mhttps://github.com/Kishore-0707/Metro-Ti[27m[7mc[27m[7mket-Booking-System.git[27m[A[C[C[C[C[C[C[Chttps://github.com/Kishore-0707/Metro-Ticket-Booking-System.git
+[?2004lerror: remote origin already exists.
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ ls
+[?2004l[0m[01;32mLICENSE[0m  [01;32mmetro.c[0m  [01;32mmetro.exe[0m  [01;32mmetro.o[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System[00m$ lsgit remote add origin https://github.com/Kishore-0707/Metro-Ticket-Booking-System.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ ls
+[?2004l[0m[34;42mMetro-Ticket-Booking-System[0m        [01;32mlocation_utils.py[0m
+[34;42m__pycache__[0m                        [01;32mmain.py[0m
+[01;32mapp.py[0m                             [01;32mmap_server.py[0m
+[01;32mdetected_objects.json[0m              [01;32mserver.py[0m
+[01;32mefficientdet_lite2_448_ptq.tflite[0m  [01;32mtempCodeRunnerFile.py[0m
+[01;32mfind_object.py[0m                     [34;42mtemplates[0m
+[01;32mlabels.txt[0m                         [01;32mtts_system.py[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ rm -r *.py
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ ls
+[?2004l[0m[34;42mMetro-Ticket-Booking-System[0m  [01;32mefficientdet_lite2_448_ptq.tflite[0m
+[34;42m__pycache__[0m                  [01;32mlabels.txt[0m
+[01;32mdetected_objects.json[0m        [34;42mtemplates[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ rem[K[Km *
+[?2004lrm: cannot remove 'Metro-Ticket-Booking-System': Is a directory
+rm: cannot remove '__pycache__': Is a directory
+rm: cannot remove 'templates': Is a directory
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ *.*
+[?2004l*.*: command not found
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ *.*r*.*m*.* *.*
+[?2004lrm: cannot remove '*.*': No such file or directory
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ ls
+[?2004l[0m[34;42mMetro-Ticket-Booking-System[0m  [34;42m__pycache__[0m  [34;42mtemplates[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git/Real-Time-Obstacle-Analysis-and-Navigation-Model[00m$ cd ..
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[34;42mReal-Time-Obstacle-Analysis-and-Navigation-Model[0m  [01;32mgit_log.txt[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[34;42mReal-Time-Obstacle-Analysis-and-Navigation-Model[0m  [01;32mgit_log.txt[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ rem [K[K[Kmdir [7mReal-Time-Obstacle-Analysis-and-Navigation-Model[27m[C[C[C[C[C[C[CReal-Time-Obstacle-Analysis-and-Navigation-Model
+[?2004lrmdir: failed to remove 'Real-Time-Obstacle-Analysis-and-Navigation-Model': Directory not empty
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ rmdir Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C[C[C\ Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C[C[C[C[1P Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C[C[C[1P Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C[C[1P Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C[1P Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C- Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C[Cr Real-Time-Obstacle-Analysis-and-Navigation-Model[C[C[C[C[C[C
+[?2004lrm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/.git/objects/pack/pack-38c367ceb077bb3c0f055784c25f338b4c193619.idx'? cl  y
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/.git/objects/pack/pack-38c367ceb077bb3c0f055784c25f338b4c193619.pack'? 
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/.git/objects/pack/pack-38c367ceb077bb3c0f055784c25f338b4c193619.rev'? 
+rm: cannot remove 'Real-Time-Obstacle-Analysis-and-Navigation-Model/.git/objects/pack': Directory not empty
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System/.git/objects/pack/pack-27fc5e1b1f7000efcb5e745c2ac12c86b23ff96a.idx'? 
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System/.git/objects/pack/pack-27fc5e1b1f7000efcb5e745c2ac12c86b23ff96a.pack'? 
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System/.git/objects/pack/pack-27fc5e1b1f7000efcb5e745c2ac12c86b23ff96a.rev'? 
+rm: cannot remove 'Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System/.git/objects/pack': Directory not empty
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ 
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ 
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ rm -r Real-Time-Obstacle-Analysis-and-Navigation-Model[C[Krm -r Real-Time-Obstacle-Analysis-and-Navigation-Model
+[?2004lrm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/.git/objects/pack/pack-38c367ceb077bb3c0f055784c25f338b4c193619.pack'? y
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/.git/objects/pack/pack-38c367ceb077bb3c0f055784c25f338b4c193619.rev'? y
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System/.git/objects/pack/pack-27fc5e1b1f7000efcb5e745c2ac12c86b23ff96a.idx'? y
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System/.git/objects/pack/pack-27fc5e1b1f7000efcb5e745c2ac12c86b23ff96a.pack'? y
+rm: remove write-protected regular file 'Real-Time-Obstacle-Analysis-and-Navigation-Model/Metro-Ticket-Booking-System/.git/objects/pack/pack-27fc5e1b1f7000efcb5e745c2ac12c86b23ff96a.rev'? y
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ y
+[?2004ly: command not found
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[01;32mgit_log.txt[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[01;32mgit_log.txt[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ git remote add origin [7mReal-Time-Obstacle-Analysis-and-Navigation-Mode[27m[7ml[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CReal-Time-Obstacle-Analysis-and-Navigation-Mode [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mhttps://github.com/NITIN-0311/Real-Time-Obstacl[27m[7me[27m[7m-Analysis-and-Navigation-Model.git[27m[Ahttps://github.com/NITIN-0311/Real-Time-Obstacle-Analysis-and-Navigation-Model.git
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K[A[K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$
+ [K[A[K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ otuc [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Kt[K[Ktouc h [K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Kouc hu [K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[Ktouc h sam[K[K[Knew_fie[Kle.py[K[Ksh
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[01;32mgit_log.txt[0m  [01;32mnew_file.sh[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ stat [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[Kgit  status
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_log.txt[m
+	[31mnew_file.sh[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ git  add new_file.sh
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[01;32mgit_log.txt[0m  [01;32mnew_file.sh[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ c[Kgt[Kit  commit ""[K[1P"[1P"[1P"[1P"[1P"[1P"[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[C[Kgit  remote ad [Kd orgi[K[Kigin [7morigin https://github.com/NITIN-0311/Git-practice.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Corigin https://github.com/NITIN-0311/Git-practice.git
+[?2004lusage: git remote add [<options>] <name> <url>
+
+    -f, --[no-]fetch      fetch the remote branches
+    --[no-]tags           import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --[no-]track <branch>
+                          branch(es) to track
+    -m, --[no-]master <branch>
+                          master branch
+    --[no-]mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ git remote add origin origin https://github.com/NITIN-0311/Git-practice.git[1P https://github.com/NITIN-0311/Git-practice.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P https://github.com/NITIN-0311/Git-practice.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P https://github.com/NITIN-0311/Git-practice.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P https://github.com/NITIN-0311/Git-practice.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P https://github.com/NITIN-0311/Git-practice.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P https://github.com/NITIN-0311/Git-practice.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Phttps://github.com/NITIN-0311/Git-practice.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lerror: remote origin already exists.
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ gt[Kit  remote -v
+[?2004lorigin	https://github.com/NITIN-0311/Real-Time-Obstacle-Analysis-and-Navigation-Model.git (fetch)
+origin	https://github.com/NITIN-0311/Real-Time-Obstacle-Analysis-and-Navigation-Model.git (push)
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ gut[K[Kit  remote remoe[Kve origin 
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ ls
+[?2004l[0m[01;32mgit_log.txt[0m  [01;32mnew_file.sh[0m
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ g[Kgit  rm[Kemote -v
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ git  remote add [K[A[K]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ git remote add [7morigin https://github.com/NITIN-0311/Git-practice.git[27m[C[C[C[C[Corigin https://github.com/NITIN-0311/Git-practice.git
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ touch test .sh
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ stt[K[K[Kgit statsu [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kus [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ks
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   new_file.sh[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_log.txt[m
+	[31mtest.sh[m
+
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ add test.s h
+[?2004lCommand 'add' not found, did you mean:
+  command 'hadd' from snap root-framework (v6-36-04)
+  command 'ad' from deb netatalk (3.1.15~ds-1ubuntu1)
+  command 'adr' from deb adr-tools (3.0.0-2)
+  command 'ddd' from deb ddd (1:3.3.12-5.4)
+  command 'dd' from deb coreutils (9.4-3ubuntu6.1)
+  command 'atd' from deb at (3.2.5-1ubuntu1)
+  command 'aid' from deb id-utils (4.6.28-20200521ss15dab)
+  command 'pdd' from deb pdd (1.7-1)
+  command 'ldd' from deb libc-bin (2.39-0ubuntu8.6)
+  command 'tdd' from deb devtodo (0.1.20+git20200830.0ad52b0-3)
+  command 'and' from deb and (1.2.2-4.2)
+  command 'axd' from deb afnix (3.8.0-1)
+  command 'adb' from deb adb (1:33.0.3-2)
+  command 'adb' from deb google-android-platform-tools-installer (34.0.4+1695033340)
+See 'snap info <snapname>' for additional versions.
+[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ add test.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgadd test.sh[A]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [Ciadd test.sh[A]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [C[Ctadd test.sh[A]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [C[C[C add test.sh[A]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ [C[C[C[C
+
+[?2004l[?2004h]0;nitin@DESKTOP: /mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[01;32mnitin@DESKTOP[00m:[01;34m/mnt/d/CIT/SEMESTERS/7th Semester Internship/day-04/git[00m$ sr[Ktatushstatus[1Pstatusgstatusistatuststatus status [A]0;nitin@DESKTOP: /mnt/d/CIT/
